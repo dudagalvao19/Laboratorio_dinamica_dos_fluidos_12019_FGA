@@ -21,7 +21,7 @@ O objetivo do experimento é analisar o comportamento estático e dinâmico do e
 1.4 Escopo do experimento 
 Executar o experimento segundo a norma ABNT NBR ISO 5167-2 
 Serão obtidos valores de vazão provenientes da análise das seções a montante e a jusante da placa juntamente com os diferenciais de pressão aplicando as equações de continuidade e Bernoulli.  Dessa maneira, a partir dos dados obtidos serão calculados os parâmetros de velocidade média, número de Reynolds e de coeficiente de vazão,  representados pelas equações (1.0), (1.1) e (1.2) respectivamente.
-Equação (1.0)![Equação (1.0)](https://github.com/dudagalvao19/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/8b44a7803bf156089d9c3f35385b30d45e644ada/grupo_5/velocidadem.png)
+Equação (1.0)![Equação (1.0)](https://github.com/dudagalvao19/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/8b44a7803bf156089d9c3f35385b30d45e644ada/grupo_5/velocidadem.png)<br />
 Equação (1.1)![Equação (1.1)](https://github.com/dudagalvao19/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/8b44a7803bf156089d9c3f35385b30d45e644ada/grupo_5/CodeCogsEqn.png)
 Equação (1.2)![Equação (1.2)](https://github.com/dudagalvao19/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/8b44a7803bf156089d9c3f35385b30d45e644ada/grupo_5/coefic.png)
 
